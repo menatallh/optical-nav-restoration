@@ -84,6 +84,6 @@ main_output_path = "/path/to/output"
 
 ### Result : Satellite with Strong Lens Flare
 
- ![Results ](figures/qualitative_results_0000.png)
- ![Results ](figures/qualitative_results_0001.png)
- ![Results ](figures/qualitative_results_0002.png) 
+![Results1](figures/qualitative_results_0000.png)
+![Results2](figures/qualitative_results_0001.png)
+![Results2](figures/qualitative_results_0002.png) 
